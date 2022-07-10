@@ -1,0 +1,29 @@
+/* @font-face {
+  font-family: ;
+  src: url();
+}
+@font-face {
+  font-family: ;
+  src: url();
+} */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: montserrat-medium;
+  font-size: 18px;
+  background-color: red;
+  /* scroll-behavior: smooth; */
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}/*# sourceMappingURL=index.css.map */
+
